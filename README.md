@@ -4,6 +4,9 @@ RNN과 LSTM에 대해 공부하고 이를 직접 구현하여 학습 시켜봄.
 # RNN과 LSTM을 이해할 수 있도록 잘 정리해준 글
 
 * [ratsgo's blog](https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/)
+* [크리스토퍼 오라 블로그의 LSTM 문서](http://colah.github.io/posts/2015-08-Understanding-LSTMs)
+* [브랜든 로더 : LSTM을 설명하는 훌륭한 동영상을 제공](https://brohrer.github.io/how_rnns_lstm_work.html)
+
 
 # LSTM 내부 구조 설명
 
