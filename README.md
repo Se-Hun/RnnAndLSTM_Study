@@ -26,3 +26,12 @@ input gate의 출력에 해당하는 it의 범위는 0에서1, Ct의 범위는 -
 
 ![LSTM의 Gate들](https://github.com/Se-Hun/RnnAndLSTM_Study/blob/master/img/LSTM_gates.png)
 
+# Language Modeling : 텍스트 생성기
+
+LSTM을 이용하여 텍스트를 생성하는 모델을 학습시켜 본다.
+
+이 모델은 어떤 상황에서 다음 단어를 예측할 수 있다.
+
+### 사용한 데이터셋 : WikiText2
+
+torchtext를 통해 데이터셋을 다운로드하고 사용한다.
